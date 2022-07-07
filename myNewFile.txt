@@ -1,2 +1,4 @@
 this is my new file to learn how to use git
 this modification is from git, not in your PC
+test
+this file is update locally
