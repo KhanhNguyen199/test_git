@@ -12,4 +12,9 @@ sdbasdasd
 dasdasd
 khoa
 khoa
+<<<<<<< HEAD
 
+=======
+asdasd hom nay la thu tu
+asdasd hom nay la thu nam
+>>>>>>> main
