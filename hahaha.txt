@@ -1,10 +1,7 @@
 hahaha
-<<<<<<< HEAD
 new update1
 new online update 2
 new update 2
 new local update 2
-=======
 new update 2
 new update 3
->>>>>>> 85255ce (new)
